@@ -1,4 +1,8 @@
 # CatBoost_HackerEarthChallenge
+
+https://www.hackerearth.com/challenges/hiring/ericsson-ml-challenge-2019/machine-learning/predict-the-publishing-material-type-32/
+
+
 Hacker earth challenge
 We are living in a digital world where people prefer to read articles online or watch videos rather than reading a book. Assume that you are a member of a marketing agency and you are given a dataset having the title, subjects, and other features based on which you have to predict what will be the material of to-be-published research so that you can tie-up with an ideal publisher and help them grow. The following are the material types:
 
